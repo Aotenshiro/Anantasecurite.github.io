@@ -1,0 +1,6 @@
+Changement à merge
+
+padding 30% -> 25% sur H1
+cell-64 --> #3f51b5
+2 section Whiteslide
+échanger slide procédure et équipes
